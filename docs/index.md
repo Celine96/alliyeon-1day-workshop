@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "알리연"
-  text: "AI-Native 업무 자동화 with 클로드 코드"
+  text: "AI-Native 업무 자동화<br>with 클로드 코드"
   tagline: 오늘 워크숍이 끝나면, 여러분만의 자동화 파이프라인이 완성돼 있을 거예요!
   actions:
     - theme: brand
