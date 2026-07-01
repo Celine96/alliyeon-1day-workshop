@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'ko-KR',
-  title: "ELLA'S 1DAY WORKSHOP",
-  description: '클로드 코드로 콘텐츠 제작 자동화하기',
+  title: "알리연 클로드 코드 워크숍",
+  description: '알리연 — 클로드 코드로 콘텐츠 제작 자동화하기',
   base: '/alliyeon-1day-workshop/',
   themeConfig: {
     nav: [
