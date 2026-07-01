@@ -15,8 +15,8 @@ hero:
 
 features:
   - icon: "🖥️"
-    title: "1.1 클로드 코드란?"
-    details: "ChatGPT와 뭐가 다른지, 마인드셋 전환"
+    title: "1.1 클로드 코드란? — AI와 일하는 새로운 방식"
+    details: "AI 시대 흐름·마인드셋 전환·Claude 제품군·ChatGPT와의 차이"
     link: /part1/1-1-intro
   - icon: "⚡"
     title: "1.2 설치 및 첫 실행"

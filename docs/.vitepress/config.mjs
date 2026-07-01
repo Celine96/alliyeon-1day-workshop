@@ -21,7 +21,7 @@ export default defineConfig({
       {
         text: '1부: 클로드 코드 세팅',
         items: [
-          { text: '1.1 클로드 코드란?', link: '/part1/1-1-intro' },
+          { text: '1.1 클로드 코드란? — AI와 일하는 새로운 방식', link: '/part1/1-1-intro' },
           { text: '1.2 설치 및 첫 실행', link: '/part1/1-2-install' },
           { text: '1.3 명령어 & 네비게이션', link: '/part1/1-3-commands' },
           { text: '1.4 자동화 맛보기: 카드뉴스 만들기', link: '/part1/1-4-cardnews' },
